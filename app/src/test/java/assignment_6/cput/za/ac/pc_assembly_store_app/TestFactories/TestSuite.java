@@ -4,7 +4,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
 /**
- * Created by CuanL on 14/04/2016.
+ * Created by CuanL on 14/04/2016. Testing Commits
  */
 
 @RunWith(Suite.class)
